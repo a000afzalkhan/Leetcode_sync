@@ -21,6 +21,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
 | [1223-dice-roll-simulation](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1223-dice-roll-simulation) |
+| [1572-matrix-diagonal-sum](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1572-matrix-diagonal-sum) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
