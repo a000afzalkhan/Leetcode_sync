@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1189-maximum-number-of-balloons) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1189-maximum-number-of-balloons) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
 |  |
 | ------- |
