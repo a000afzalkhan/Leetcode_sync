@@ -97,4 +97,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
