@@ -107,4 +107,12 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0176-second-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
