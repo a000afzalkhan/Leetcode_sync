@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
@@ -88,6 +89,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
