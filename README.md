@@ -30,6 +30,7 @@
 | [0027-remove-element](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [1223-dice-roll-simulation](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1223-dice-roll-simulation) |
 | [1572-matrix-diagonal-sum](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1572-matrix-diagonal-sum) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0084-largest-rectangle-in-histogram) |
 ## Matrix
 |  |
 | ------- |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0021-merge-two-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
