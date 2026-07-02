@@ -38,6 +38,7 @@
 | [0009-palindrome-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0070-climbing-stairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
