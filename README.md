@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0069-sqrtx) |
