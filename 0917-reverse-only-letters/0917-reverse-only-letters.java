@@ -1,21 +1,23 @@
 class Solution {
-      public String reverseOnlyLetters(String s) {
-
-        Stack<Character> st = new Stack<>();
-
-        //String to Letter conversion
-        for (char c : s.toCharArray()) {
-            if (Character.isLetter(c)) st.add(c);
+    public String reverseOnlyLetters(String s) {
+    char[]ans = s.toCharArray();
+    int l = 0 ,r=s.length()-1;
+    while (r>l){
+        if(!Character.isLetter(ans[l])){
+            l++;
+        }
+        else if(!Character.isLetter(ans[r])){
+            r--;
         }
 
-        //now pop the in reverse order string or char
-        StringBuilder b = new StringBuilder();
-
-        for (char c : s.toCharArray()) {
-            if (Character.isLetter(c)) b.append(st.pop());
-            else b.append(c);
+        else{
+            char temp = ans[l];
+            ans[l]=ans[r];
+            ans[r]=temp ;
+            l++;
+            r--;
         }
-        return b.toString();
-
     }
+    return new String(ans);
+}
 }
