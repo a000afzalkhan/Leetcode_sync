@@ -36,6 +36,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
 | [1223-dice-roll-simulation](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1223-dice-roll-simulation) |
 | [1572-matrix-diagonal-sum](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1572-matrix-diagonal-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -70,6 +71,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -78,6 +80,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -104,6 +107,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -136,4 +140,17 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
