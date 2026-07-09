@@ -22,6 +22,7 @@
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
 | [0917-reverse-only-letters](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1189-maximum-number-of-balloons) |
+| [1528-shuffle-string](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1528-shuffle-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
@@ -42,6 +43,7 @@
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
 | [1223-dice-roll-simulation](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1223-dice-roll-simulation) |
+| [1528-shuffle-string](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1572-matrix-diagonal-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2206-divide-array-into-equal-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
