@@ -10,6 +10,7 @@
 | [0242-valid-anagram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1331-rank-transform-of-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2206-divide-array-into-equal-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -46,6 +47,7 @@
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
 | [1223-dice-roll-simulation](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1223-dice-roll-simulation) |
+| [1331-rank-transform-of-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1331-rank-transform-of-an-array) |
 | [1528-shuffle-string](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1572-matrix-diagonal-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2206-divide-array-into-equal-pairs) |
@@ -122,6 +124,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1331-rank-transform-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
