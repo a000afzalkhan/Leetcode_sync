@@ -64,6 +64,7 @@
 | [0069-sqrtx](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0070-climbing-stairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -180,4 +181,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
