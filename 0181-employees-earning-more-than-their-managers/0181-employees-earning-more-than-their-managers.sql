@@ -1,8 +1,1 @@
-SELECT name AS Employee
-FROM Employee e
-WHERE salary >
-(
-    SELECT salary
-    FROM Employee
-    WHERE id = e.managerId
-);
+SELECT e.name AS employee FROM employee e INNER JOIN Employee m on e.managerId = m.Id WHERE e.salary > m.salary;
