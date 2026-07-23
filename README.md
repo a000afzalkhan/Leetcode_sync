@@ -150,6 +150,7 @@
 | [0197-rising-temperature](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0197-rising-temperature) |
 | [0607-sales-person](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0619-biggest-single-number) |
+| [1251-average-selling-price](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Linked List
 |  |
