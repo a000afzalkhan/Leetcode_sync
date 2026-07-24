@@ -151,6 +151,7 @@
 | [0607-sales-person](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0619-biggest-single-number) |
 | [1251-average-selling-price](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1251-average-selling-price) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Linked List
 |  |
