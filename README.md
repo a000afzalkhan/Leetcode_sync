@@ -44,6 +44,7 @@
 | [0027-remove-element](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
@@ -121,12 +122,14 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0917-reverse-only-letters) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
