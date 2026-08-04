@@ -64,6 +64,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0069-sqrtx) |
@@ -142,6 +143,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
 | [2206-divide-array-into-equal-pairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2206-divide-array-into-equal-pairs) |
 ## Simulation
