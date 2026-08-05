@@ -47,6 +47,7 @@
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0084-largest-rectangle-in-histogram) |
+| [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
@@ -194,10 +196,12 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
 ## Enumeration
 |  |
@@ -208,4 +212,8 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
