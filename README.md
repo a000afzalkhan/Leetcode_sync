@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
+| [1382-balance-a-binary-search-tree](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting Sort
 |  |
 | ------- |
@@ -216,4 +218,20 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
+## Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1382-balance-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
