@@ -46,6 +46,7 @@
 | [0027-remove-element](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0084-largest-rectangle-in-histogram) |
@@ -82,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0070-climbing-stairs) |
 | [1223-dice-roll-simulation](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1223-dice-roll-simulation) |
 ## Memoization
@@ -194,6 +196,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0045-jump-game-ii) |
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
 | [1382-balance-a-binary-search-tree](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting Sort
