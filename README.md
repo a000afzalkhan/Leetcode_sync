@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0242-valid-anagram) |
@@ -47,6 +48,7 @@
 | [0027-remove-element](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
