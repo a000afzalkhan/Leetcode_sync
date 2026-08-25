@@ -53,6 +53,7 @@
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0136-single-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2206-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
