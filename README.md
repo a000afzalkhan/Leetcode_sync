@@ -56,6 +56,7 @@
 | [0136-single-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0905-sort-array-by-parity) |
@@ -143,6 +144,7 @@
 | [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0905-sort-array-by-parity) |
