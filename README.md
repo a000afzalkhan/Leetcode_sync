@@ -83,6 +83,7 @@
 | [0069-sqrtx](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0292-nim-game) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -271,4 +272,24 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
