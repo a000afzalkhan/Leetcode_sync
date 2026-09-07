@@ -1,24 +1,19 @@
 class Solution {
+    static int[] suf = new int[100];
     public int firstStableIndex(int[] nums, int k) {
         int n = nums.length;
-        
-        int[] minRight = new int[n];
-        minRight[n - 1] = nums[n - 1];
-        for (int i = n - 2; i >= 0; i--) {
-            minRight[i] = Math.min(nums[i], minRight[i + 1]);
-        }
-        
-        int maxLeft = Integer.MIN_VALUE;
+        suf[n - 1] = nums[n - 1];
+
+        for (int i = n - 2; i >= 0; i--)
+            suf[i] = Math.min(suf[i + 1], nums[i]);
+
+        int maxSoFar = 0;
         for (int i = 0; i < n; i++) {
-            maxLeft = Math.max(maxLeft, nums[i]); 
-            
-            long score = (long) maxLeft - minRight[i];
-            
-            if (score <= k) {
+            maxSoFar = Math.max(maxSoFar, nums[i]);
+            if (maxSoFar <= k + suf[i])
                 return i;
-            }
         }
-        
+
         return -1;
     }
 }
