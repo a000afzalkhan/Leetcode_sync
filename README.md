@@ -10,6 +10,7 @@
 | [0202-happy-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1331-rank-transform-of-an-array) |
@@ -56,6 +57,7 @@
 | [0136-single-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
@@ -87,6 +89,7 @@
 | [0069-sqrtx](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0292-nim-game) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -142,6 +145,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
@@ -167,6 +171,7 @@
 | [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0905-sort-array-by-parity) |
@@ -179,6 +184,7 @@
 | [0029-divide-two-integers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0268-missing-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2206-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
