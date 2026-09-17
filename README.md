@@ -326,4 +326,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
