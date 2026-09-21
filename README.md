@@ -77,6 +77,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3904-smallest-stable-index-ii) |
+| [4039-sum-of-decoded-numbers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4039-sum-of-decoded-numbers) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4039-sum-of-decoded-numbers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4039-sum-of-decoded-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0043-multiply-strings](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [4039-sum-of-decoded-numbers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4039-sum-of-decoded-numbers) |
 ## Database
 |  |
 | ------- |
