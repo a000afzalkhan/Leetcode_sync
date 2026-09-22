@@ -78,6 +78,7 @@
 | [3903-smallest-stable-index-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3904-smallest-stable-index-ii) |
 | [4039-sum-of-decoded-numbers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4039-sum-of-decoded-numbers) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1572-matrix-diagonal-sum) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [4039-sum-of-decoded-numbers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4039-sum-of-decoded-numbers) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Database
 |  |
 | ------- |
