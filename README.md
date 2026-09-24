@@ -75,6 +75,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2206-divide-array-into-equal-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -100,6 +101,7 @@
 | [0292-nim-game](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0292-nim-game) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3870-count-commas-in-range) |
