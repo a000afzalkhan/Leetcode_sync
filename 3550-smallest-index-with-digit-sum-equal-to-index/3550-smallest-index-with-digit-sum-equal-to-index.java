@@ -1,21 +1,20 @@
 class Solution {
+    public int ds(int n){
+        int ans = 0;
+        while(n!=0){
+            ans += n%10;
+            n /= 10;
+        }
+        return ans;
+    }
     public int smallestIndex(int[] nums) {
-
-        for (int i = 0; i < nums.length; i++) {
-
-            int num = nums[i];
-            int sum = 0;
-
-            while (num != 0) {
-                sum = sum + num % 10;
-                num = num / 10;
-            }
-
-            if (sum == i) {
+        int x = nums.length;
+        for(int i=0;i<x;i++){
+            if(ds(nums[i])==i){
                 return i;
             }
         }
-
         return -1;
+        
     }
 }
