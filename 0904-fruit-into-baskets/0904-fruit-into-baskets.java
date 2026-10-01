@@ -1,44 +1,39 @@
 class Solution {
-    public int totalFruit(int[] a) {
-        int r=0,l=0;
+    public int totalFruit(int[] fruits) {
 
-        Map<Integer,Integer> map = new HashMap<>();
-
+        int left = 0;
+        int distinct = 0;
         int max = 0;
 
-        while(r<a.length)
-        {
-            
-            if(map.containsKey(a[r]))
-            {
-                int old = map.get(a[r]);
-                  map.put(a[r],old+1);
-            }
-            else
-            {
-                
-                 map.put(a[r],1);
+        int n = fruits.length;
+        int[] freq = new int[n];
+
+        for (int right = 0; right < n; right++) {
+
+            int index = fruits[right];
+
+            if (freq[index] == 0) {
+                distinct++;
             }
 
-        while(map.size()>2)
-        {
-            int num = map.get(a[l]);
-            if(num==1)
-            {
-                map.remove(a[l]);
-            }
-            else
-            {
-                map.put(a[l],num-1);
-            }
-            l++;
-         }
-         max = Math.max(max,r-l+1);
-        r++;
-       }  
+            freq[index]++;
 
-       return max;
+            while (distinct > 2) {
 
-        
+                int leftIndex = fruits[left];
+
+                freq[leftIndex]--;
+
+                if (freq[leftIndex] == 0) {
+                    distinct--;
+                }
+
+                left++;
+            }
+
+            max = Math.max(max, right - left + 1);
+        }
+
+        return max;
     }
 }
