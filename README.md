@@ -104,6 +104,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3871-count-commas-in-range-ii) |
@@ -247,6 +248,7 @@
 | [0045-jump-game-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0045-jump-game-ii) |
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
 | [1382-balance-a-binary-search-tree](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1382-balance-a-binary-search-tree) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Counting Sort
 |  |
 | ------- |
