@@ -1,66 +1,56 @@
-
 class Solution {
     public int sortableIntegers(int[] nums) {
         int n = nums.length;
+        int[] sorted = nums.clone();
+        Arrays.sort(sorted);
+        long ans = 0;
+        
+        for (int k = 1; k <= n; k++) {
+            if (n % k != 0)
+                continue;
+            boolean possible = true;
+            for (int start = 0; start < n && possible; start += k) {
+                int end = start + k;
+                int descent = -1;
 
-        int[] prefMax = new int[n + 1];
-        for (int i = 0; i < n; i++) {
-            prefMax[i + 1] = Math.max(prefMax[i], nums[i]);
-        }
+                for (int i = start; i < end - 1; i++) {
+                    if (nums[i] > nums[i + 1]) {
 
-        int[] suffMin = new int[n + 1];
-        suffMin[n] = Integer.MAX_VALUE;
-
-        for (int i = n - 1; i >= 0; i--) {
-            suffMin[i] = Math.min(nums[i], suffMin[i + 1]);
-        }
-
-        int[] prefDrop = new int[n];
-        for (int i = 1; i < n; i++) {
-            prefDrop[i] = prefDrop[i - 1]
-                    + (nums[i - 1] > nums[i] ? 1 : 0);
-        }
-
-        int ans = 0;
-
-        for (int k = 1; k <= n / k; k++) {
-            if (n % k == 0) {
-                if (check(nums, prefMax, suffMin, prefDrop, k)) {
-                    ans += k;
+                        if (descent != -1) {
+                            possible = false;
+                            break;
+                        }
+                        descent = i;
+                    }
                 }
 
-                int other = n / k;
-                if (other != k &&
-                    check(nums, prefMax, suffMin, prefDrop, other)) {
-                    ans += other;
+                if (!possible)
+                    break;
+
+                int rotationStart;
+
+                if (descent == -1) {
+                    rotationStart = start;
+                } else {
+                    rotationStart = descent + 1;
+                }
+
+                for (int j = 0; j < k; j++) {
+
+                    int originalIndex = rotationStart + j;
+                    if (originalIndex >= end) {
+                        originalIndex -= k;
+                    }
+                    if (nums[originalIndex] != sorted[start + j]) {
+                        possible = false;
+                        break;
+                    }
                 }
             }
-        }
-
-        return ans;
-    }
-
-    private boolean check(int[] nums, int[] prefMax,
-                          int[] suffMin, int[] prefDrop, int k) {
-        int n = nums.length;
-
-        for (int start = 0; start < n; start += k) {
-            int end = start + k - 1;
-
-            int drops = prefDrop[end] - prefDrop[start];
-
-            // Count the circular boundary.
-            if (nums[end] > nums[start]) {
-                drops++;
-            }
-
-            // A block must be cyclically sortable,
-            // and its values must fit between neighboring blocks.
-            if (drops > 1 || prefMax[start] > suffMin[start]) {
-                return false;
+            if (possible) {
+                ans += k;
             }
         }
-
-        return true;
+        return(int)ans;
     }
 }
