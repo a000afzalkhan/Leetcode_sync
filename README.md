@@ -84,6 +84,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3904-smallest-stable-index-ii) |
 | [4039-sum-of-decoded-numbers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4039-sum-of-decoded-numbers) |
@@ -114,6 +115,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3886-sum-of-sortable-integers) |
 | [4039-sum-of-decoded-numbers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4039-sum-of-decoded-numbers) |
 ## Dynamic Programming
 |  |
@@ -202,6 +204,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
