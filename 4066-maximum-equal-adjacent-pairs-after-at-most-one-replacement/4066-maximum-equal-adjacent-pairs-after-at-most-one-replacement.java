@@ -1,29 +1,39 @@
-class Solution {
-    public int maxEqualAdjacentPairs(int[] nums) {
-        int equalPair = 0;
-        int maxGain = 0;
-
-        Map<String , Integer> map = new HashMap<>();
-
-        for(int i = 0; i< nums.length - 1 ; i++ ){
-            
-            int a = nums[i];
-            int b = nums[i + 1];
-
-            if(a == b){
-                equalPair++;
-            }else{
-                int min = Math.min(a,b);
-                int max = Math.max(a,b);
-
-                String key = min + "#" + max;
-
-                int count = map.getOrDefault(key , 0) +1;
-                map.put(key , count);
-
-                maxGain = Math.max (maxGain , count );
+import java.util.Arrays;
+class Solution
+{
+    public int maxEqualAdjacentPairs(int[] nums)
+    {
+        int n = nums.length;
+        int basePairs = 0;
+        long[] pairs = new long[n - 1];
+        int diffCount = 0;
+        for (int i = 0; i < n - 1; i++)
+        {
+            int u = nums[i];
+            int v = nums[i + 1];
+            if (u == v)
+            {
+                basePairs++;
+            }
+            else
+            {
+                long min = Math.min(u, v);
+                long max = Math.max(u, v);
+                pairs[diffCount++] = (min << 32) | max;
             }
         }
-        return equalPair  + maxGain;
+        Arrays.sort(pairs, 0, diffCount);
+        int maxGain = 0;
+        int currentStreak = 0;
+        for (int i = 0; i < diffCount; i++)
+        {
+            currentStreak++;
+            if (i == diffCount - 1 || pairs[i] != pairs[i + 1])
+            {
+                maxGain = Math.max(maxGain, currentStreak);
+                currentStreak = 0;
+            }
+        }
+        return basePairs + maxGain;
     }
 }
