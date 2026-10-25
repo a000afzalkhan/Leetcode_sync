@@ -20,6 +20,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1189-maximum-number-of-balloons) |
 | [2206-divide-array-into-equal-pairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2206-divide-array-into-equal-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3904-smallest-stable-index-ii) |
 | [4039-sum-of-decoded-numbers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4039-sum-of-decoded-numbers) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Math
 |  |
 | ------- |
