@@ -60,6 +60,7 @@
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
@@ -185,6 +186,7 @@
 | [0027-remove-element](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0283-move-zeroes) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0242-valid-anagram) |
