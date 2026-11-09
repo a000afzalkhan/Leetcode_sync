@@ -192,6 +192,7 @@
 | [0283-move-zeroes](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0541-reverse-string-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0917-reverse-only-letters) |
 ## Sorting
@@ -250,6 +251,7 @@
 | [0002-add-two-numbers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
