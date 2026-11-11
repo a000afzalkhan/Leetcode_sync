@@ -18,6 +18,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2206-divide-array-into-equal-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
@@ -83,6 +84,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3875-construct-uniform-parity-array-i) |
@@ -226,6 +228,7 @@
 | [0043-multiply-strings](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [4039-sum-of-decoded-numbers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4039-sum-of-decoded-numbers) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Database
@@ -253,6 +256,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0876-middle-of-the-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -279,6 +283,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0912-sort-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -376,4 +381,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
