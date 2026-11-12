@@ -70,6 +70,7 @@
 | [0268-missing-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0561-array-partition) |
 | [0904-fruit-into-baskets](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0905-sort-array-by-parity) |
