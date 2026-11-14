@@ -88,6 +88,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3364-minimum-positive-sum-subarray) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -168,6 +169,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3904-smallest-stable-index-ii) |
@@ -187,6 +189,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0904-fruit-into-baskets) |
+| [3364-minimum-positive-sum-subarray](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
