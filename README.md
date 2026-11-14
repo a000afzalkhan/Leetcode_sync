@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
@@ -66,6 +67,7 @@
 | [0136-single-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0283-move-zeroes) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
