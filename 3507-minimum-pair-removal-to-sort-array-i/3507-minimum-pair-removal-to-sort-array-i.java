@@ -1,53 +1,26 @@
-import java.util.*;
-
 class Solution {
-
-    public int minimumPairRemoval(int[] nums) {
-
-        List<Integer> arr = new ArrayList<>();
-
-        for (int x : nums) {
-            arr.add(x);
+    private boolean isSorted(int[] nums, int n) {
+        for(int i = 1; i < n; i++) {
+            if(nums[i] < nums[i - 1]) return false;
         }
-
-        int count = 0;
-
-        while (!isNonDecreasing(arr)) {
-
-            int minIndex = 0;
-
-            int minSum = arr.get(0) + arr.get(1);
-
-            for (int i = 1; i < arr.size() - 1; i++) {
-
-                int sum = arr.get(i) + arr.get(i + 1);
-
-                if (sum < minSum) {
-
-                    minSum = sum;
-                    minIndex = i;
+        return true;
+    }
+    public int minimumPairRemoval(int[] nums) {
+        int ans = 0, n = nums.length;
+        while(!isSorted(nums, n)) {
+            ans += 1;
+            int min_sum = Integer.MAX_VALUE, pos = -1;
+            for(int i = 1; i < n; i++) {
+                int sum = nums[i - 1] + nums[i];
+                if(sum < min_sum) {
+                    min_sum = sum;
+                    pos = i;
                 }
             }
-
-            arr.set(minIndex, minSum);
-
-            arr.remove(minIndex + 1);
-
-            count++;
+            nums[pos - 1] = min_sum;
+            for(int i = pos; i < n - 1; i++) nums[i] = nums[i + 1];
+            n--;
         }
-
-        return count;
-    }
-
-    private boolean isNonDecreasing(List<Integer> arr) {
-
-        for (int i = 1; i < arr.size(); i++) {
-
-            if (arr.get(i) < arr.get(i - 1)) {
-                return false;
-            }
-        }
-
-        return true;
+        return ans;
     }
 }
