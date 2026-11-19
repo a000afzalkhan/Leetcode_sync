@@ -61,6 +61,7 @@
 | [0045-jump-game-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0118-pascals-triangle) |
@@ -180,6 +181,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/2089-find-target-indices-after-sorting-array) |
