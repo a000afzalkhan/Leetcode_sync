@@ -35,6 +35,7 @@
 | [0065-valid-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0917-reverse-only-letters) |
@@ -201,6 +202,7 @@
 | [0075-sort-colors](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0349-intersection-of-two-arrays) |
