@@ -122,6 +122,7 @@
 | [0292-nim-game](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0292-nim-game) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3360-stone-removal-game](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -243,6 +244,7 @@
 | [0043-multiply-strings](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3360-stone-removal-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [4039-sum-of-decoded-numbers](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4039-sum-of-decoded-numbers) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/a000afzalkhan/Leetcode_sync/tree/master/4052-cyclically-shift-rows-and-columns) |
