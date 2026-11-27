@@ -1,19 +1,20 @@
-
 class Solution {
     public boolean canAliceWin(int n) {
-
-        int remove = 10;
-        boolean aliceTurn = true;
-
-        while (n >= remove) {
-
-            n = n - remove;
-
-            aliceTurn = !aliceTurn;
-
-            remove--;
+        if(n<10){
+            return false;
         }
-
-        return !aliceTurn;
+        int count=0;
+        int sub=10;
+        while(n>=sub){
+            n-=sub;
+            sub--;
+            count++;
+        }
+        if(count%2==0){
+            return false;
+        }else{
+            return true;
+        }
+        
     }
 }
